@@ -1,0 +1,16 @@
+.sidebar{
+    background-color: #A8A8A8;
+    height: 200vh; 
+}
+.sidebar-link {
+    text-decoration: none; 
+    color: black; 
+  }
+  
+  .sidebar-link:hover {
+    color: #007bff;
+  }
+
+  .sidebar-link.active-link {
+    color: pink;
+  }
