@@ -15,8 +15,7 @@ function App() {
           <Routes>
 
             <Route path="/:category" element={<CategoryPage />} />
-            <Route path="/" element={<CategoryPage />} />
-            
+            <Route path="/" element={<CategoryPage />} />            
           </Routes>
         </div>
       </div>
