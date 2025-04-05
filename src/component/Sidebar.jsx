@@ -9,6 +9,7 @@ const Sidebar = () => {
         <hr />
       </div>
       <div className="mx-3">
+        
         <NavLink
           to="/"
           className={({ isActive }) =>
