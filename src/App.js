@@ -13,6 +13,7 @@ function App() {
 
         <div className="col-md-9 px-3">
           <Routes>
+            
             <Route path="/:category" element={<CategoryPage />} />
             <Route path="/" element={<CategoryPage />} />
           </Routes>
