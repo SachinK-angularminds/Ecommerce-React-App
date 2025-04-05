@@ -4,7 +4,7 @@ import "./sidebar.css";
 
 const Sidebar = () => {
   return (
-    <div className="sidebar">
+    <div className="sidebar h-100">
       <div className="pt-5">
         <hr />
       </div>
